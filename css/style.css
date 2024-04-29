@@ -53,3 +53,61 @@ body {
     margin-top: 10px;
     width: 49%;
 }
+
+.col-12 {
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+}
+
+#myButton {
+    margin-right: 18xp;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+    background-color: #cce8e5;
+    color: black;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+#demo img{
+    margin-top: 20px;
+    margin-left: 38%;
+    width: 30%;
+}
+
+.btn_red{
+    margin-right: 18xp;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+    background-color: #cce8e5;
+    color: black;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.form {
+    width: 33%;
+    border: 1px solid beige;
+    margin-left: auto;
+    margin-right: 435px;
+    margin-top: 5px;
+    background-color: #ebddcc;
+}
+
+.form_p {
+    width: 100%;
+    border: 1px solid beige;
+    background-color: #ebddcc;
+}
+
+.post {
+    padding-right: 300px;
+    width: 100%;
+    border: 1px solid beige;
+    background-color: #ebddcc;
+}
